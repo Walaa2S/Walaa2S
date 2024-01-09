@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Eng.Walaa ;
-  I hope I can make great projects through this year and share it with all of you 😎..;
 - 👀 I’m interested in "information technology..."; 
 - 🌱 I’m currently learning " UI/UX and Java" ; 
 - 📫 How to reach me "walaa551w@gmail..com" ;
