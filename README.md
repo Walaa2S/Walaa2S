@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eng.Walaa ;
-- 👀 I’m interested in "information technology..."; 
-- 🌱 I’m currently learning " UI/UX and Java" ; 
+- 👀 Informatics Engineering ; 
+- 🌱 Frontend & UI/UX & Java & Flutter & Lua" ; 
 - 📫 How to reach me "walaa551w@gmail..com" ;
 
 <!---
