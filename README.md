@@ -49,49 +49,35 @@ I enjoy turning ideas into clear, intuitive digital products — from interface 
 <a id="featured-work"></a>
 ## 02 — Featured Work
 
-<table>
-<tr>
-<td width="33%" valign="top">
+### [01 · UTB Informatics](https://github.com/Walaa2S/UTB-Informatics)
 
-### 🎓 [UTB Informatics](https://github.com/Walaa2S/UTB-Informatics)
-
-**University Experience Platform**
+<a href="https://github.com/Walaa2S/UTB-Informatics">
+  <img src="./assets/project-utb.svg" width="100%" alt="UTB Informatics project cover" />
+</a>
 
 Interactive university platform with curriculum visualization, prerequisites, student progress, and university-focused experiences.
 
-`Next.js` `React` `Tailwind` `Express` `MongoDB`
+`Next.js` · `React` · `Tailwind CSS` · `Express` · `MongoDB` · `React Flow`
 
-[**Explore project →**](https://github.com/Walaa2S/UTB-Informatics)
+### [02 · TECHTRAP](https://github.com/Walaa2S/TECHTRAP-PLATFORM)
 
-</td>
-<td width="33%" valign="top">
-
-### 🧠 [TECHTRAP](https://github.com/Walaa2S/TECHTRAP-PLATFORM)
-
-**AI + Computer Vision**
+<a href="https://github.com/Walaa2S/TECHTRAP-PLATFORM">
+  <img src="./assets/project-techtrap.svg" width="100%" alt="TECHTRAP project cover" />
+</a>
 
 Inclusive interactive platform using computer vision and body movement to create active learning experiences for children.
 
-`AI` `Computer Vision` `Interactive UI`
+`AI` · `Computer Vision` · `Interactive UI`
 
-[**Explore project →**](https://github.com/Walaa2S/TECHTRAP-PLATFORM)
+### [03 · Baseera](https://github.com/Walaa2S/Baseera-)
 
-</td>
-<td width="33%" valign="top">
-
-### 📊 [Baseera](https://github.com/Walaa2S/Baseera-)
-
-**Data + AI**
+<a href="https://github.com/Walaa2S/Baseera-">
+  <img src="./assets/project-baseera.svg" width="100%" alt="Baseera project cover" />
+</a>
 
 AI-powered analytics platform that transforms complex datasets into organized insights and interactive dashboards.
 
-`TypeScript` `AI` `Data Analytics`
-
-[**Explore project →**](https://github.com/Walaa2S/Baseera-)
-
-</td>
-</tr>
-</table>
+`TypeScript` · `AI` · `Data Analytics`
 
 ---
 
