@@ -4,10 +4,10 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-17102B?style=for-the-badge&logo=vercel&logoColor=A78BFA)](#featured-work)
 [![Projects](https://img.shields.io/badge/PROJECTS-17102B?style=for-the-badge&logo=github&logoColor=A78BFA)](#featured-work)
 [![Skills](https://img.shields.io/badge/SKILLS-17102B?style=for-the-badge&logo=figma&logoColor=A78BFA)](#tech--design)
-[![GitHub](https://img.shields.io/badge/CONNECT-17102B?style=for-the-badge&logo=github&logoColor=A78BFA)](https://github.com/Walaa2S)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-17102B?style=for-the-badge&logo=linkedin&logoColor=A78BFA)](https://www.linkedin.com/in/walaa-ali-33706a190)
+[![GitHub](https://img.shields.io/badge/GITHUB-17102B?style=for-the-badge&logo=github&logoColor=A78BFA)](https://github.com/Walaa2S)
 
 </div>
 
@@ -15,34 +15,13 @@
 
 ## 01 — About
 
-<table>
-<tr>
-<td width="62%" valign="top">
-
 ### I design experiences — then bring them to life.
 
 I'm an **Informatics Engineering** student at the **University of Technology Bahrain**, focused on **Front-End Development** and **UI/UX Design**.
 
-I enjoy turning ideas into clear, intuitive digital products — from interface architecture and prototyping to responsive implementation. Alongside design and front-end work, I explore **AI, Computer Vision, Robotics, and Intelligent Systems** through technical projects and innovation challenges.
-
-`USER-CENTERED DESIGN` · `FRONT-END` · `AI` · `ROBOTICS`
-
-</td>
-<td width="38%" valign="top">
-
-### Currently exploring
-
-✦ Human-centered intelligent systems  
-✦ Interactive web experiences  
-✦ AI & computer vision  
-✦ Robotics & smart environments  
-✦ Product and interface design
+I turn ideas into clear, intuitive digital products — from interface architecture and prototyping to responsive implementation — while exploring **AI, Computer Vision, Robotics, and Intelligent Systems** through technical projects and innovation challenges.
 
 **Based in Bahrain 🇧🇭**
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -137,7 +116,7 @@ Intelligent Systems
 
 <table>
 <tr>
-<td width="25%" align="center">
+<td width="33%" align="center">
 
 ### 🏆
 **1st Place**  
@@ -145,25 +124,18 @@ BisB Next-Gen Islamic
 Investment Hackathon 2026
 
 </td>
-<td width="25%" align="center">
+<td width="33%" align="center">
 
 ### 📱
 **Huawei**  
 Student Ambassador
 
 </td>
-<td width="25%" align="center">
+<td width="33%" align="center">
 
 ### 📸
 **President**  
 UTB Photography Club
-
-</td>
-<td width="25%" align="center">
-
-### 🎓
-**Informatics**  
-Engineering · UTB
 
 </td>
 </tr>
@@ -171,15 +143,18 @@ Engineering · UTB
 
 ---
 
-## 05 — Philosophy
+## 05 — Connect
 
 <div align="center">
 
+### Let's build something thoughtful.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Walaa_Ali-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/walaa-ali-33706a190)
+[![GitHub](https://img.shields.io/badge/GitHub-Walaa2S-17102B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Walaa2S)
+
+<br/><br/>
+
 ### “Design with purpose. Build with clarity. Create technology that feels human.”
-
-**Front-End · UI/UX · AI · Robotics**
-
-<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Walaa2S&style=flat-square&color=6D28D9&label=PROFILE+VIEWS)
 
