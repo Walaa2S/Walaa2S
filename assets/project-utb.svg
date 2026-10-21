@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="380" viewBox="0 0 720 380">
+<defs>
+ <linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#08060e"/><stop offset=".58" stop-color="#17102b"/><stop offset="1" stop-color="#35156c"/></linearGradient>
+ <linearGradient id="a"><stop stop-color="#5b21b6"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#6d28d9"/></linearGradient>
+ <radialGradient id="g"><stop stop-color="#a78bfa" stop-opacity=".35"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/></radialGradient>
+</defs>
+<style>
+.t{font:800 40px Arial,sans-serif;fill:white}.s{font:600 14px Arial,sans-serif;letter-spacing:3px;fill:#bca8ff}.n{font:800 72px Arial,sans-serif;fill:#a78bfa;opacity:.14}.k{font:500 14px Arial,sans-serif;fill:#d8d0e5}.dot{animation:p 3.5s ease-in-out infinite}@keyframes p{0%,100%{opacity:.35}50%{opacity:1}}
+</style>
+<rect width="720" height="380" rx="28" fill="url(#b)"/>
+<circle cx="640" cy="65" r="180" fill="url(#g)"/>
+<path d="M500 0H720V380H610Z" fill="#a78bfa" opacity=".035"/>
+<text x="48" y="72" class="s">UNIVERSITY EXPERIENCE PLATFORM</text>
+<text x="48" y="148" class="t">UTB INFORMATICS</text>
+<rect x="48" y="176" width="92" height="5" rx="2.5" fill="url(#a)"/>
+<text x="48" y="235" class="k">Next.js  ·  React  ·  UI/UX</text>
+<text x="560" y="305" class="n">01</text>
+<circle class="dot" cx="54" cy="321" r="5" fill="#a78bfa"/><text x="70" y="326" class="s">FEATURED PROJECT</text>
+</svg>
